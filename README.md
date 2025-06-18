@@ -9,6 +9,6 @@ about of informtion retreial system codings)
 7. LAB 07: [POS parts of speech.](https://github.com/DEEPAK-RAMGIRI/Information-Retrieval-System-IRS-/blob/main/IR_Lab_Assignment_07.ipynb)
 8. LAB 08: [NER](https://github.com/DEEPAK-RAMGIRI/Information-Retrieval-System-IRS-/blob/main/IR_Lab_Assignment_08.ipynb)
 9. LAB 09: [Word2Vec](https://github.com/DEEPAK-RAMGIRI/Information-Retrieval-System-IRS-/blob/main/IR_Lab_Assignment_09.ipynb)
-10. LAB 10: [## 🧠 Sentiment Analysis with Logistic Regression and TF-IDF](https://github.com/DEEPAK-RAMGIRI/Information-Retrieval-System-IRS-/blob/main/IR_Lab_Assignment_10.ipynb)
+10. LAB 10: [Sentiment Analysis with Logistic Regression and TF-IDF](https://github.com/DEEPAK-RAMGIRI/Information-Retrieval-System-IRS-/blob/main/IR_Lab_Assignment_10.ipynb)
 11. Project: [MUSIC RECCOMENDATION SYSTEM](https://github.com/DEEPAK-RAMGIRI/Information-Retrieval-System-IRS-/blob/main/PROJECT.ipynb)
 
